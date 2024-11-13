@@ -1,4 +1,4 @@
-# Azure AI LABS
+# Azure AI Predictive
 # Vamsi Kethu
 ## AI/ML Architect | Automation Expert | AI Strategy & Transformation Leader
 
